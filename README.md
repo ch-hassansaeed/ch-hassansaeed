@@ -1,19 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-8956
-Fork on GitHub
-1993
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm hassan saeed</h1>
 <h3 align="center">A passionate Senior Full Stack Engineer - Team Lead working from last 10 years.</h3>
 
