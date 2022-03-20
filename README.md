@@ -23,9 +23,28 @@
 
 - ⚡ Fun fact **I am Funny & supper cool :)**
 
-### Blogs posts
+### 📺 Latest YouTube Videos
+
+<!-- YOUTUBE:START -->
+- [How To Make React Companies Budget Management Project Full App Beginners
+](https://www.youtube.com/watch?v=BJl6oYNZh1s&ab_channel=H2ZONE)
+- [How to Debug React app in VSCode React Project Debugging Visual Studio Code
+](https://www.youtube.com/watch?v=4xiiyXjuo9E&ab_channel=H2ZONE)
+<!-- YOUTUBE:END -->
+
+➡️ [more videos...](https://www.youtube.com/c/H2ZONE_SP)
+
+---
+
+### 📕 Latest Blog Posts
+
 <!-- BLOG-POST-LIST:START -->
+- [Beginners Laravel MySql Restful Vue JS Event Management system-Backend 1/2](https://hzonesp.com/php/beginners-laravel-mysql-restful-vue-js-event-management-system-backend-1-2/)
+- [Create basic PHP Symfony5 Restful Microservice CURD API and MySQL part_1-2
+](https://hzonesp.com/php/create-basic-php-symfony5-restful-microservice-curd-api-mysql-part_1-2/)
 <!-- BLOG-POST-LIST:END -->
+
+➡️ [more blog posts...](https://hzonesp.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
