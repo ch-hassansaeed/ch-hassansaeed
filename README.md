@@ -50,9 +50,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ch_hassansaeed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ch_hassansaeed" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://linkedin.com/in/chhassansaeed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/chhassansaeed" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/6295712/hassan-saeed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/6295712/hassan-saeed" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/c/h2zone_sp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/c/h2zone_sp" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/chhassansaeed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/chhassansaeed" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/6295712/hassan-saeed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/6295712/hassan-saeed" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/h2zone_sp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/c/h2zone_sp" height="30" width="40" /></a>
 <a href="/https://hzonesp.com/feed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://hzonesp.com/feed" height="30" width="40" /></a>
 </p>
 
